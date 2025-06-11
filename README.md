@@ -1,6 +1,7 @@
 Pre Entrega 
 
 Este proyecto es un gestor de productos que interactúa con la API de FakeStore.
+
 Ejecutar el comando:
 
    npm install
