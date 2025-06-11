@@ -5,7 +5,8 @@ Este proyecto es un gestor de productos que interactúa con la API de FakeStore.
 Ejecutar el comando:
 
    npm install
-   Esto instalará la dependencia "node-fetch"
+  
+   (Esto instalará la dependencia "node-fetch")
 
 Para ejecutar comandos usa:
 
